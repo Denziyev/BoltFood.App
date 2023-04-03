@@ -1,0 +1,17 @@
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.AssemblyInfo.cs
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\bin\Debug\net7.0\BoltFood.Service.deps.json
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\bin\Debug\net7.0\BoltFood.Service.dll
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\bin\Debug\net7.0\BoltFood.Service.pdb
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\bin\Debug\net7.0\BoltFood.Core.dll
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\bin\Debug\net7.0\BoltFood.Data.dll
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\bin\Debug\net7.0\BoltFood.Data.pdb
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\bin\Debug\net7.0\BoltFood.Core.pdb
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.csproj.CopyComplete
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.dll
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\refint\BoltFood.Service.dll
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\BoltFood.Service.pdb
+C:\Users\VO\Desktop\BoltFood.App\BoltFood.Service\obj\Debug\net7.0\ref\BoltFood.Service.dll
